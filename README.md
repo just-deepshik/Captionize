@@ -45,11 +45,10 @@ The project uses BLEU scores to evaluate the quality of generated captions again
 
 ## 📸 Demo Output
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ca1afc50-83b1-442c-a197-c527028d6132" alt="image1" width="250" height="250" />
-  <img src="https://github.com/user-attachments/assets/0ee3a74d-39a4-4c32-a7d7-4c1d3055f5ab" alt="image2" width="250" height="250" />
-  <img src="https://github.com/user-attachments/assets/1878126d-bd2d-4ef1-83b6-6ddc2fbfb54e" alt="image3" width="250" height="250" />
+  <img src="https://github.com/user-attachments/assets/5104d50f-a86f-4458-8482-23cb22031bd8" alt="Screenshot 1" width="300" height="300" />
+  <img src="https://github.com/user-attachments/assets/6d67a3d0-b2ff-4dfc-8f14-c9957a4b8006" alt="Screenshot 2" width="300" height="300" />
+  <img src="https://github.com/user-attachments/assets/86ebac09-373d-4808-a8f7-2849a8a379e3" alt="Screenshot 3" width="300" height="300" />
 </p>
-
 
 ⚡ With Captionize, your images don’t just remain images — they tell a story!
 
