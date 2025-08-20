@@ -1,4 +1,4 @@
-# Captionizer 🖼️✨  
+# Captionize 🖼️✨  
 **Automatic Image Caption Generator with Attention**
 
 👉 [Download Project files](https://drive.google.com/drive/folders/1fZSiGbpB1SXEmW6Pkd6ueNmYPeFjeiLh?usp=sharing) 
