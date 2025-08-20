@@ -11,15 +11,8 @@ The workflow includes:
 - An **interactive interface** in Google Colab for uploading an image and generating captions with a user-friendly UI.  
 ---
 
-## 📂 Folder Structure 
-
-
-Captionize/
-- dataset                                      # Place downloaded dataset here
-- models                                       # Saved models (.h5 files)
-- image_captioning.ipynb                       # Main notebook (train + test + UI)
-- requirements.txt                             # Python dependencies
-
+## 📂 Files
+👉 [Download Project files](https://drive.google.com/drive/folders/1fZSiGbpB1SXEmW6Pkd6ueNmYPeFjeiLh?usp=sharing)  
 ---
 
 ## 📊 Dataset  
