@@ -23,12 +23,10 @@ This project uses **Flickr8k dataset** containing images and captions.
 
 ## 🚀 Steps to Run the Project  
 
-- 1️⃣ Clone the Repository 
-- 2️⃣ Install Dependencies
-- 3️⃣ Download Dataset
-- 4️⃣ Open the Notebook in Google Colab
-- 5️⃣ Run Training & Evaluation
-- 6️⃣ Try the Interactive Caption Generator
+- 1️⃣ Download the project files and dataset from the links provided above
+- 2️⃣ Open the Notebook in Google Colab
+- 3️⃣ Run Training & Evaluation
+- 4️⃣ Try the Interactive Caption Generator
 
 
 ## 📈 Model Evaluation
